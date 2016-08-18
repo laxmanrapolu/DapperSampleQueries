@@ -1,0 +1,1 @@
+C:\Repositories\DapperSampleQueries\DapperSampleQueries\bin\Debug\DapperSampleQueries.exe.config
